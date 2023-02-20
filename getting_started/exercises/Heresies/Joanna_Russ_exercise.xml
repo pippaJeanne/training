@@ -63,10 +63,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/pippaJeanne/training/main/getting_started/exercises/Heresies/Joanna_Russ_exercise.xml?person_annotation_20230220150601112",
+	"id": "https://raw.githubusercontent.com/pippaJeanne/training/main/getting_started/exercises/Heresies/Joanna_Russ_exercise.xml?person_annotation_20230220150725142",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-02-20T20:06:01.112Z",
-	"dcterms:modified": "2023-02-20T20:06:01.112Z",
+	"dcterms:created": "2023-02-20T20:07:25.142Z",
+	"dcterms:modified": "2023-02-20T20:07:33.831Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/pippaJeanne",
 		"@type": [
@@ -77,7 +77,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/pippaJeanne/training/main/getting_started/exercises/Heresies/Joanna_Russ_exercise.xml?person_annotation_20230220150601112#Target",
+		"@id": "https://raw.githubusercontent.com/pippaJeanne/training/main/getting_started/exercises/Heresies/Joanna_Russ_exercise.xml?person_annotation_20230220150725142#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/pippaJeanne/training/main/getting_started/exercises/Heresies/Joanna_Russ_exercise.xml",
@@ -91,9 +91,9 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/pippaJeanne/training/main/getting_started/exercises/Heresies/Joanna_Russ_exercise.xml?person_annotation_20230220150601112#Selector",
+			"@id": "https://raw.githubusercontent.com/pippaJeanne/training/main/getting_started/exercises/Heresies/Joanna_Russ_exercise.xml?person_annotation_20230220150725142#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/byline/persName"
+			"rdf:value": "TEI/text/body/byline/persName/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -124,7 +124,7 @@
          <head><title>Women Talking, Women Thinking </title></head>
          <note>Various excerpts from the forthcoming novel, On Strike Against God, to be published
             in the spring of 1978 by Out and Out Books.</note>
-         <byline><persName key="Joanna Russ" ref="http://www.wikidata.org/entity/Q265270">Joanna Russ</persName></byline>
+         <byline><persName key="Joanna Russ" ref="http://www.wikidata.org/entity/Q265270"><persName key="Joanna Russ" ref="http://www.wikidata.org/entity/Q265270">Joanna Russ</persName></persName></byline>
 
          <p>What did we talk about?</p>
          <p>I don't remember. We talked so hard and sat so still that I got cramps in my knees. We
